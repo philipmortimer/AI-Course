@@ -1,0 +1,1 @@
+Text here is in place to ensure offline games folder is pushed to Git
