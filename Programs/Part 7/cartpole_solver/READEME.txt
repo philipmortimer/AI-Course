@@ -1,2 +1,0 @@
-Code adapted from: https://github.com/Mottl/cartpole_solver 
-Trains deep q model to solve cart pole
